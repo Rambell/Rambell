@@ -1,5 +1,5 @@
-<h3 align="center">Analista Programador Computacional</h3>
-<h3 align="center">Estudiante de Ingenieria en Informática</h3>
+
+<h3 align="center">Ingeniero en Informática</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
