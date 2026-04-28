@@ -1,11 +1,11 @@
-<h1 align="center">Hola, soy Matías 👋</h1>
-<h3 align="center">Frontend Developer | React | UI/UX</h3>
+<h1 align="center">Hola, soy Matías Ramírez Belmar</h1>
+<h3 align="center">Ingeniero en Informática | FrontEnd | React | TypeScript | Next.JS | Gsap</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU-LINKEDIN">
+  <a href="[https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/matiasramirezlink/)">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:TUEMAIL@EMAIL.COM">
+  <a href="mailto:matias.ramirez28@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -14,8 +14,8 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador Frontend con experiencia construyendo aplicaciones web modernas utilizando **React**.  
-Me enfoco en crear interfaces limpias, eficientes y centradas en el usuario.
+Soy desarrollador de Software con experiencia construyendo aplicaciones web modernas utilizando **React**.  
+Me enfoco en crear aplicaciones webs y landings con interfaces limpias, eficientes y centradas en el usuario.
 
 Actualmente:
 - 💼 Frontend Developer en IT SMART
@@ -45,73 +45,6 @@ Actualmente:
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 🗺️ Planificador de Rutas
-Aplicación web que permite optimizar rutas con múltiples paradas usando Google Maps API.
-
-- 🔹 React + Material UI  
-- 🔹 Optimización de rutas  
-- 🔹 Interfaz centrada en productividad  
-
-👉 [Ver Demo](#) | [Ver Código](#)
-
----
-
-### 📅 Sistema de Reservas (SaaS)
-Plataforma de reservas por hora, media hora o día, orientada a distintos tipos de negocios.
-
-- 🔹 React + Redux  
-- 🔹 Gestión de disponibilidad  
-- 🔹 Enfoque SaaS escalable  
-
-👉 [Ver Demo](#) | [Ver Código](#)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📚 Actualmente aprendiendo
-
-- ☁️ AWS Cloud Practitioner  
-- 🏗️ Arquitectura en la nube  
-- ⚡ Optimización y performance en frontend  
-- 🔍 Mejores prácticas de desarrollo escalable  
-
----
-
-## 💼 Experiencia
-
-**Frontend Developer — IT SMART**  
-- Desarrollo de interfaces con React  
-- Integración con APIs  
-- Uso de Redux para manejo de estado  
-- Mejora de experiencia de usuario en sistemas empresariales  
-
----
-
-## 🎯 Objetivo
-
-Seguir creciendo como desarrollador frontend y avanzar hacia arquitecturas cloud, participando en proyectos que generen impacto real.
-
----
-
-## 📫 Contacto
-
-- 💼 LinkedIn: https://linkedin.com/in/TU-LINKEDIN  
-- 📧 Email: TUEMAIL@EMAIL.COM  
-
----
 
 ## ⚡ Dato extra
 
