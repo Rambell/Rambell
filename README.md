@@ -1,11 +1,118 @@
+<h1 align="center">Hola, soy Matías 👋</h1>
+<h3 align="center">Frontend Developer | React | UI/UX</h3>
 
-<h3 align="center">Ingeniero en Informática</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matiasramirezlink/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías ramírez belmar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/TU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:TUEMAIL@EMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://primereact.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyszv3ADeSZ347d4F4Im4xG6QlZaI8JX1BXDxAlexYg&s" alt="git" width="60" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://i.blogs.es/ef26c3/81789893-2daf-418f-a041-8d37ee55b9a0/1366_2000.jpeg" alt="git" width="60" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEzSTW%2FbtrOnr2wJfz%2FjjSBinUftO7OieOopw36SK%2Fimg.png" alt="postgresql" width="40" height="40"/>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.jpg" alt="mongodb" width="0" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodejs" width="60" height="40"/> </a></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+---
 
+## 🚀 Sobre mí
+
+Soy desarrollador Frontend con experiencia construyendo aplicaciones web modernas utilizando **React**.  
+Me enfoco en crear interfaces limpias, eficientes y centradas en el usuario.
+
+Actualmente:
+- 💼 Frontend Developer en IT SMART
+- 🧠 Trabajando con React, Redux y Material UI
+- ☁️ Aprendiendo Cloud (AWS / GCP)
+- 🎯 Construyendo proyectos para mi portafolio
+
+---
+
+## 🛠️ Tecnologías
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+### 🎨 UI / UX
+![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend & Otros
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🗺️ Planificador de Rutas
+Aplicación web que permite optimizar rutas con múltiples paradas usando Google Maps API.
+
+- 🔹 React + Material UI  
+- 🔹 Optimización de rutas  
+- 🔹 Interfaz centrada en productividad  
+
+👉 [Ver Demo](#) | [Ver Código](#)
+
+---
+
+### 📅 Sistema de Reservas (SaaS)
+Plataforma de reservas por hora, media hora o día, orientada a distintos tipos de negocios.
+
+- 🔹 React + Redux  
+- 🔹 Gestión de disponibilidad  
+- 🔹 Enfoque SaaS escalable  
+
+👉 [Ver Demo](#) | [Ver Código](#)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- ☁️ AWS Cloud Practitioner  
+- 🏗️ Arquitectura en la nube  
+- ⚡ Optimización y performance en frontend  
+- 🔍 Mejores prácticas de desarrollo escalable  
+
+---
+
+## 💼 Experiencia
+
+**Frontend Developer — IT SMART**  
+- Desarrollo de interfaces con React  
+- Integración con APIs  
+- Uso de Redux para manejo de estado  
+- Mejora de experiencia de usuario en sistemas empresariales  
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como desarrollador frontend y avanzar hacia arquitecturas cloud, participando en proyectos que generen impacto real.
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: https://linkedin.com/in/TU-LINKEDIN  
+- 📧 Email: TUEMAIL@EMAIL.COM  
+
+---
+
+## ⚡ Dato extra
+
+Me interesa construir productos tipo SaaS y proyectos que puedan escalar 🚀
