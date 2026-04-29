@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero en Informática | FrontEnd | React | TypeScript | Next.JS | Gsap</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/matiasramirezlink/)">
+  <a href="[[https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/matiasramirezlink/)](https://www.linkedin.com/in/matiasramirezlink/)">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:matias.ramirez28@gmail.com">
